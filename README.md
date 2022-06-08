@@ -12,8 +12,8 @@ Application to allow for an easy setup of MERN software project
 
 ## .env code
 `
-NODE_ENV = Development
-PORT = 3000
+NODE_ENV = Development `\n`
+PORT = 3000 `\n`
 MONGO_URI = 
 `
 
